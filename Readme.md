@@ -2,4 +2,4 @@
 
 ### Inorder to make it work...
 
-` npm install class-transformer class-validator`js
+` npm install class-transformer class-validator`
